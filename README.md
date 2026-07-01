@@ -1,6 +1,6 @@
 # 🔎 RAG-Powered Search Engine — Q&A with Retrieval-Augmented Generation
 
-**Final Capstone Project · IITG · AI Application Development**
+**Final Capstone Project · AI Application Development**
 
 A complete Retrieval-Augmented Generation (RAG) system that answers
 natural-language questions about a custom document collection. Answers are
