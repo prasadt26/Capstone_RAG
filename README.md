@@ -145,3 +145,7 @@ The notebook measures:
 - **Hybrid search** (BM25 + dense vectors).
 - **Conversational memory** for follow-up questions and response streaming.
 - Automated faithfulness scoring with **RAGAS**.
+
+---
+
+**Author:** Prasad Thipparthi · Final Capstone Project, IIT Guwahati
