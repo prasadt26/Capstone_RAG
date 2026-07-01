@@ -9,7 +9,7 @@ natural-language questions about a custom document collection. Answers are
 directly addressing the two big LLM weaknesses: private/stale knowledge and
 hallucination.
 
-> **Project option #2** from the capstone brief. Built with
+>from the capstone brief. Built with
 > **LangChain · Azure OpenAI (`gpt-5-chat`) · local MiniLM embeddings · FAISS ·
 > Streamlit**. The LLM and embedding providers are swappable via environment
 > variables (Azure OpenAI, standard OpenAI, or fully-local embeddings).
